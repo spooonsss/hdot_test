@@ -14,10 +14,10 @@
 00:A1DE tilemap
 
 [source files]
-0000 e67653c1 hdot_test.asm
+0000 b8af504a hdot_test.asm
 
 [rom checksum]
-48610227
+92c88942
 
 [addr-to-line mapping]
 ff:ffff 0000:00000005

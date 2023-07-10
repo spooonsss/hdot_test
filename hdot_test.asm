@@ -20,8 +20,8 @@ db $00
 ;   123456789012345678901
 db "hdot test            "
 db $30 ; lorom fastrom
-db $00 ; rom only
-db $09 ; rom 512kb
+db $00 ; no sram
+db $05 ; rom 32KB
 db $00 ; sram size
 
 db $00
