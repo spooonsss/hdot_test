@@ -155,10 +155,10 @@ Reset:
 
     sep #$20
     stz $212c ; TM
-    stz $212e
+	stz $212e ; TMW
     lda #$01
     sta $212d ; TS
-    stz $212f
+	stz $212f ; TSW
 
     lda #$02
     sta $2130
